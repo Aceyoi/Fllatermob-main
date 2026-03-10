@@ -23,3 +23,5 @@
     Расчет процентов выполняется в Cubit (calculateInterest).
 
     Нет переключения экранов — вместо этого меняются состояния (например, переход от InterestInitial к InterestCalculated).
+
+![изображение](https://github.com/user-attachments/assets/88023b6b-9cd8-4ef3-9361-d166bcde646e)
