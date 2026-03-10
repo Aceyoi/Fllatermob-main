@@ -2,7 +2,7 @@
 Отличия 4 от 3 лабораторной работы
 Использование Cubit
                                                                                                                                         
-                                                                                                                                            Реализован InterestCubit, управляющий состояниями (InterestInitial, InterestAgreementUpdated, InterestCalculated).
+    Реализован InterestCubit, управляющий состояниями (InterestInitial, InterestAgreementUpdated, InterestCalculated).
 
     Состояния наследуются от Equatable для оптимизации сравнения.
 
