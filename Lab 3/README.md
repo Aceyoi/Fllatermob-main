@@ -8,7 +8,7 @@
 
 
 
-![изображение](<img width="918" height="302" alt="изображение" src="https://github.com/user-attachments/assets/0910ddf4-b366-485d-b463-1b3951353596" />)
+![изображение](https://github.com/user-attachments/assets/0910ddf4-b366-485d-b463-1b3951353596)
 ![изображение](https://github.com/user-attachments/assets/390df8d5-adcd-4058-8fac-c2aac2a0d7cf)
 ![изображение](https://github.com/user-attachments/assets/614e53e5-09ab-4a9b-8cd6-11bce5da0bf3)
 
