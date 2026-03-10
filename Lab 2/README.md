@@ -9,7 +9,7 @@ Row добавить выравнивание по ширине.
       return Scaffold(
         appBar: AppBar(
           backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-          title: const Text('Нечталенко Илья ИВТ-22'), 
+          title: const Text('Сапожников Юрий ИВТ-22'), 
         ),
         body: Padding(
           padding: EdgeInsets.symmetric(
