@@ -91,7 +91,3 @@
 
     Чтобы убедиться, что изменения сохранены:
     git status
-
-
-# Лабораторная работа 2
-https://github.com/Luxurys-Lukuchi/Fllatermob/tree/main/laba2
