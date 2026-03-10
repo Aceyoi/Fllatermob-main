@@ -9,8 +9,8 @@
 
 
 ![изображение](https://github.com/user-attachments/assets/0910ddf4-b366-485d-b463-1b3951353596)
-![изображение](https://github.com/user-attachments/assets/07273465-7ccb-4320-b050-4ad2d2630f67>)
-![изображение](https://github.com/user-attachments/assets/ceb1c8af-5a3e-446b-a65c-fb3ed4cfe6df>)
+![изображение](https://github.com/user-attachments/assets/07273465-7ccb-4320-b050-4ad2d2630f67)
+![изображение](https://github.com/user-attachments/assets/ceb1c8af-5a3e-446b-a65c-fb3ed4cfe6df)
 
 
 
